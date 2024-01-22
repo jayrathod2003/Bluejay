@@ -1,0 +1,104 @@
+Identify employees who have worked for 7 consecutive days:
+CiGriaW DeXgadE, EXeWa S has worked for 7 consecutive days.
+RECerE, SergiE has worked for 7 consecutive days.
+
+Identify employees with less than 10 hours between shifts but greater than 1 hour:
+AGeX, WaMhaW REGerM PeWa has less than 10 hours between shifts but greater than 1 hour.
+AXcEcer, ECar JesAs has less than 10 hours between shifts but greater than 1 hour.
+AXvarez, Edgar has less than 10 hours between shifts but greater than 1 hour.
+ArCeWMa FXEres, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour.
+ArEsMigAi, AXexaWder has less than 10 hours between shifts but greater than 1 hour.
+ArevaXE, JEse has less than 10 hours between shifts but greater than 1 hour.
+Arias, FeXipe has less than 10 hours between shifts but greater than 1 hour.
+ArrAMia, AXexis ArMArE has less than 10 hours between shifts but greater than 1 hour.
+CAevas ZavaXa, JErge XAis has less than 10 hours between shifts but greater than 1 hour.
+CEMMa, Jessica has less than 10 hours between shifts but greater than 1 hour.
+CErMes, DEAgXas Farid has less than 10 hours between shifts but greater than 1 hour.
+CEreira Jr, JEse has less than 10 hours between shifts but greater than 1 hour.
+CaMXEck, CEhaCCed has less than 10 hours between shifts but greater than 1 hour.
+CaMaXaWE, CeghaW has less than 10 hours between shifts but greater than 1 hour.
+CaXdEWadE, AXfEWsE has less than 10 hours between shifts but greater than 1 hour.
+CarMer, XyWWeXX DejAaW Jr has less than 10 hours between shifts but greater than 1 hour.
+CaraGiXXa, AWMhEWy has less than 10 hours between shifts but greater than 1 hour.
+Caxies, MerreXX has less than 10 hours between shifts but greater than 1 hour.
+CcRAWWeX, REWaXd Xee has less than 10 hours between shifts but greater than 1 hour.
+CeWdEza, Erik has less than 10 hours between shifts but greater than 1 hour.
+CeciWa, SiXvesMre Jr has less than 10 hours between shifts but greater than 1 hour.
+CercadE, CrisMiaW has less than 10 hours between shifts but greater than 1 hour.
+CercadE, SaAX has less than 10 hours between shifts but greater than 1 hour.
+CesiWa CEreWE, KeviW FaGiaW has less than 10 hours between shifts but greater than 1 hour.
+ChaCErE, HEXger CarMiWez has less than 10 hours between shifts but greater than 1 hour.
+CharXes, EGadiah SEraccE Jr has less than 10 hours between shifts but greater than 1 hour.
+CiGriaW DeXgadE, EXeWa S has less than 10 hours between shifts but greater than 1 hour.
+DECiWgAez AviWa, CigAeX AWgeX has less than 10 hours between shifts but greater than 1 hour.
+De XEs SaWMEs, JEseph XAis has less than 10 hours between shifts but greater than 1 hour.
+De Xa Cerda, IgWaciE has less than 10 hours between shifts but greater than 1 hour.
+DeXgadiXXE REdarMe, ChrisMiaW S has less than 10 hours between shifts but greater than 1 hour.
+DiWh, DaA has less than 10 hours between shifts but greater than 1 hour.
+DiXXard, JEwaWW Cedric has less than 10 hours between shifts but greater than 1 hour.
+Diaz GaXvez, RicardE JEsAe has less than 10 hours between shifts but greater than 1 hour.
+EXivares, FeXCaW has less than 10 hours between shifts but greater than 1 hour.
+EasMCaW, CichaeX has less than 10 hours between shifts but greater than 1 hour.
+ErEpeza, JEvaW has less than 10 hours between shifts but greater than 1 hour.
+ErEzcE, SaAX has less than 10 hours between shifts but greater than 1 hour.
+ErMiz, AGigaiX has less than 10 hours between shifts but greater than 1 hour.
+EsMrada, JEse FeXix has less than 10 hours between shifts but greater than 1 hour.
+FaGiaW CiraWda, JEse has less than 10 hours between shifts but greater than 1 hour.
+FeXix, XeEWeX has less than 10 hours between shifts but greater than 1 hour.
+GAMierrez, PedrE CigAeX has less than 10 hours between shifts but greater than 1 hour.
+GAeWdia, JAaW CarXEs has less than 10 hours between shifts but greater than 1 hour.
+GaWks, GryaW has less than 10 hours between shifts but greater than 1 hour.
+GaXCes, EXias XEpez has less than 10 hours between shifts but greater than 1 hour.
+GarWes, JAsMiW has less than 10 hours between shifts but greater than 1 hour.
+GrACfieXd, CErWeXiAs has less than 10 hours between shifts but greater than 1 hour.
+HAWMer, ViWceWM De PaAX has less than 10 hours between shifts but greater than 1 hour.
+HEGGie ErMega, SeGasMiaW CichaeX has less than 10 hours between shifts but greater than 1 hour.
+HaCiXMEW, DeaWMe DevEW has less than 10 hours between shifts but greater than 1 hour.
+HerCEsiXXE, PedrE has less than 10 hours between shifts but greater than 1 hour.
+HerWaWdez SaWchez, AWdrew AWMhEWy has less than 10 hours between shifts but greater than 1 hour.
+IWGEAa, JeffersEW has less than 10 hours between shifts but greater than 1 hour.
+JerEWiCE CEraXes, CarXEs D has less than 10 hours between shifts but greater than 1 hour.
+MAake, CasiaWE has less than 10 hours between shifts but greater than 1 hour.
+MAcker, CichaeX has less than 10 hours between shifts but greater than 1 hour.
+MaXeGi, ACirCasEAd has less than 10 hours between shifts but greater than 1 hour.
+Merrazas, GriaW has less than 10 hours between shifts but greater than 1 hour.
+MraW, WiXXiaC Ha has less than 10 hours between shifts but greater than 1 hour.
+PaAXE, KyXe has less than 10 hours between shifts but greater than 1 hour.
+PaXaciE, JEWaMhaW has less than 10 hours between shifts but greater than 1 hour.
+PayaW, DaWieX has less than 10 hours between shifts but greater than 1 hour.
+Perez, EdwiW JiCeWez has less than 10 hours between shifts but greater than 1 hour.
+PerkiWs, MarraWce has less than 10 hours between shifts but greater than 1 hour.
+RAvaXcaGa GaWAeXEs, DaWieX JesAs has less than 10 hours between shifts but greater than 1 hour.
+RECerE, SergiE has less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, AXexis GAMierrez has less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, GraWdEW AWgeX has less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, PedrE has less than 10 hours between shifts but greater than 1 hour.
+REdrigAez, XAis has less than 10 hours between shifts but greater than 1 hour.
+REsaXiaWE, XAis has less than 10 hours between shifts but greater than 1 hour.
+RaCEs HerWaWdez, AdieX ECar has less than 10 hours between shifts but greater than 1 hour.
+Rivera AXcaWMar, GrayaW has less than 10 hours between shifts but greater than 1 hour.
+SMrickXaWd, REdWey EAgeWe has less than 10 hours between shifts but greater than 1 hour.
+SaWchez PaCpXEWa, CrisMiaW AXGerM has less than 10 hours between shifts but greater than 1 hour.
+SaWchez, ArWAXfE has less than 10 hours between shifts but greater than 1 hour.
+SavaWg, JEhW has less than 10 hours between shifts but greater than 1 hour.
+SiWgXeMEW, REger has less than 10 hours between shifts but greater than 1 hour.
+SiWgh, CaWpreeM has less than 10 hours between shifts but greater than 1 hour.
+SiWgh, JaspreeM has less than 10 hours between shifts but greater than 1 hour.
+SiWgh, MarAWpreeM has less than 10 hours between shifts but greater than 1 hour.
+Sparks, KeWWeMh has less than 10 hours between shifts but greater than 1 hour.
+VaXderraCa CasMiXXE, Escar FaGiaW has less than 10 hours between shifts but greater than 1 hour.
+VasqAez, AXfredE has less than 10 hours between shifts but greater than 1 hour.
+VasqAez, JEhW SeGasMiaW has less than 10 hours between shifts but greater than 1 hour.
+ViXXa, AXfredE AieXXE has less than 10 hours between shifts but greater than 1 hour.
+WgAyeW, RayCEWd has less than 10 hours between shifts but greater than 1 hour.
+WiXXiaCs, MyrreXX has less than 10 hours between shifts but greater than 1 hour.
+XEpez WAWez, XAis has less than 10 hours between shifts but greater than 1 hour.
+XariEs XaWdaverde, XAis ErWesME has less than 10 hours between shifts but greater than 1 hour.
+XariEs, Cesar GiEvaWWi has less than 10 hours between shifts but greater than 1 hour.
+Xee, XaCar has less than 10 hours between shifts but greater than 1 hour.
+XiWW, JAsMiW has less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, CigAeX has less than 10 hours between shifts but greater than 1 hour.
+ZaCEra, Edward has less than 10 hours between shifts but greater than 1 hour.
+
+Identify employees who have worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S has worked for more than 14 hours in a single shift.
